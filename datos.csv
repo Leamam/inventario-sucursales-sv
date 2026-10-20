@@ -1,0 +1,101 @@
+ID_Registro,Sucursal,Producto,Categoria,Stock_Actual,Precio_Unitario,Valor_Total_USD
+INV-1001,San Salvador,"Laptop Corporativa 15""",Tecnología,60,650.0,39000.0
+INV-1002,Santa Ana,Impresora Multifuncional,Oficina,23,180.0,4140.0
+INV-1003,San Salvador,Router Inalámbrico Doble Banda,Redes,36,55.0,1980.0
+INV-1004,Sonsonate,Resma Papel Bond Carta,Papelería,7,4.75,33.25
+INV-1005,San Salvador,"Monitor LED 24""",Tecnología,52,145.5,7566.0
+INV-1006,Santa Ana,Router Inalámbrico Doble Banda,Redes,53,55.0,2915.0
+INV-1007,San Salvador,Router Inalámbrico Doble Banda,Redes,50,55.0,2750.0
+INV-1008,Sonsonate,Resma Papel Bond Carta,Papelería,19,4.75,90.25
+INV-1009,La Libertad,Switch Gigabit 8 Puertos,Redes,22,38.0,836.0
+INV-1010,San Salvador,Teclado Mecánico USB,Tecnología,79,45.0,3555.0
+INV-1011,San Miguel,Silla Ergonómica Ejecutiva,Mobiliario,24,120.0,2880.0
+INV-1012,Santa Ana,Escritorio Metálico,Mobiliario,21,195.0,4095.0
+INV-1013,San Salvador,Resma Papel Bond Carta,Papelería,37,4.75,175.75
+INV-1014,San Miguel,Escritorio Metálico,Mobiliario,53,195.0,10335.0
+INV-1015,San Miguel,"Laptop Corporativa 15""",Tecnología,61,650.0,39650.0
+INV-1016,La Libertad,Router Inalámbrico Doble Banda,Redes,12,55.0,660.0
+INV-1017,La Libertad,"Monitor LED 24""",Tecnología,40,145.5,5820.0
+INV-1018,San Miguel,Switch Gigabit 8 Puertos,Redes,38,38.0,1444.0
+INV-1019,Sonsonate,Impresora Multifuncional,Oficina,9,180.0,1620.0
+INV-1020,San Salvador,Impresora Multifuncional,Oficina,62,180.0,11160.0
+INV-1021,San Salvador,Impresora Multifuncional,Oficina,37,180.0,6660.0
+INV-1022,La Libertad,Silla Ergonómica Ejecutiva,Mobiliario,34,120.0,4080.0
+INV-1023,San Miguel,Teclado Mecánico USB,Tecnología,38,45.0,1710.0
+INV-1024,San Miguel,Impresora Multifuncional,Oficina,57,180.0,10260.0
+INV-1025,San Miguel,"Monitor LED 24""",Tecnología,53,145.5,7711.5
+INV-1026,Santa Ana,Router Inalámbrico Doble Banda,Redes,61,55.0,3355.0
+INV-1027,Santa Ana,Teclado Mecánico USB,Tecnología,44,45.0,1980.0
+INV-1028,La Libertad,Silla Ergonómica Ejecutiva,Mobiliario,40,120.0,4800.0
+INV-1029,Santa Ana,Escritorio Metálico,Mobiliario,64,195.0,12480.0
+INV-1030,San Salvador,Impresora Multifuncional,Oficina,29,180.0,5220.0
+INV-1031,San Miguel,Resma Papel Bond Carta,Papelería,32,4.75,152.0
+INV-1032,San Salvador,Impresora Multifuncional,Oficina,65,180.0,11700.0
+INV-1033,Santa Ana,Caja Bolígrafos Negros,Papelería,40,3.5,140.0
+INV-1034,La Libertad,Teclado Mecánico USB,Tecnología,21,45.0,945.0
+INV-1035,Santa Ana,Impresora Multifuncional,Oficina,62,180.0,11160.0
+INV-1036,Sonsonate,Router Inalámbrico Doble Banda,Redes,21,55.0,1155.0
+INV-1037,Sonsonate,Resma Papel Bond Carta,Papelería,30,4.75,142.5
+INV-1038,San Miguel,Impresora Multifuncional,Oficina,23,180.0,4140.0
+INV-1039,Sonsonate,Caja Bolígrafos Negros,Papelería,10,3.5,35.0
+INV-1040,San Salvador,"Monitor LED 24""",Tecnología,44,145.5,6402.0
+INV-1041,Santa Ana,Resma Papel Bond Carta,Papelería,53,4.75,251.75
+INV-1042,San Salvador,Resma Papel Bond Carta,Papelería,73,4.75,346.75
+INV-1043,Sonsonate,Caja Bolígrafos Negros,Papelería,38,3.5,133.0
+INV-1044,San Miguel,Router Inalámbrico Doble Banda,Redes,15,55.0,825.0
+INV-1045,San Salvador,Router Inalámbrico Doble Banda,Redes,59,55.0,3245.0
+INV-1046,San Miguel,"Monitor LED 24""",Tecnología,33,145.5,4801.5
+INV-1047,La Libertad,Teclado Mecánico USB,Tecnología,34,45.0,1530.0
+INV-1048,San Salvador,Silla Ergonómica Ejecutiva,Mobiliario,89,120.0,10680.0
+INV-1049,Santa Ana,Router Inalámbrico Doble Banda,Redes,21,55.0,1155.0
+INV-1050,San Miguel,Router Inalámbrico Doble Banda,Redes,53,55.0,2915.0
+INV-1051,Santa Ana,Teclado Mecánico USB,Tecnología,38,45.0,1710.0
+INV-1052,Santa Ana,Router Inalámbrico Doble Banda,Redes,64,55.0,3520.0
+INV-1053,Sonsonate,"Laptop Corporativa 15""",Tecnología,25,650.0,16250.0
+INV-1054,La Libertad,"Laptop Corporativa 15""",Tecnología,12,650.0,7800.0
+INV-1055,San Miguel,Silla Ergonómica Ejecutiva,Mobiliario,30,120.0,3600.0
+INV-1056,San Salvador,Impresora Multifuncional,Oficina,35,180.0,6300.0
+INV-1057,San Salvador,Caja Bolígrafos Negros,Papelería,33,3.5,115.5
+INV-1058,Sonsonate,Teclado Mecánico USB,Tecnología,13,45.0,585.0
+INV-1059,La Libertad,Router Inalámbrico Doble Banda,Redes,15,55.0,825.0
+INV-1060,San Miguel,Router Inalámbrico Doble Banda,Redes,53,55.0,2915.0
+INV-1061,La Libertad,Impresora Multifuncional,Oficina,39,180.0,7020.0
+INV-1062,Santa Ana,Silla Ergonómica Ejecutiva,Mobiliario,40,120.0,4800.0
+INV-1063,San Miguel,Caja Bolígrafos Negros,Papelería,48,3.5,168.0
+INV-1064,La Libertad,"Monitor LED 24""",Tecnología,20,145.5,2910.0
+INV-1065,Santa Ana,"Monitor LED 24""",Tecnología,36,145.5,5238.0
+INV-1066,San Salvador,Switch Gigabit 8 Puertos,Redes,54,38.0,2052.0
+INV-1067,Sonsonate,Impresora Multifuncional,Oficina,5,180.0,900.0
+INV-1068,San Salvador,"Laptop Corporativa 15""",Tecnología,54,650.0,35100.0
+INV-1069,San Salvador,"Laptop Corporativa 15""",Tecnología,67,650.0,43550.0
+INV-1070,San Salvador,Router Inalámbrico Doble Banda,Redes,55,55.0,3025.0
+INV-1071,San Miguel,Caja Bolígrafos Negros,Papelería,28,3.5,98.0
+INV-1072,Sonsonate,Teclado Mecánico USB,Tecnología,35,45.0,1575.0
+INV-1073,Santa Ana,Caja Bolígrafos Negros,Papelería,41,3.5,143.5
+INV-1074,Santa Ana,"Monitor LED 24""",Tecnología,21,145.5,3055.5
+INV-1075,La Libertad,Escritorio Metálico,Mobiliario,32,195.0,6240.0
+INV-1076,La Libertad,Caja Bolígrafos Negros,Papelería,8,3.5,28.0
+INV-1077,San Salvador,"Laptop Corporativa 15""",Tecnología,76,650.0,49400.0
+INV-1078,San Miguel,"Monitor LED 24""",Tecnología,30,145.5,4365.0
+INV-1079,Santa Ana,Impresora Multifuncional,Oficina,49,180.0,8820.0
+INV-1080,La Libertad,Teclado Mecánico USB,Tecnología,32,45.0,1440.0
+INV-1081,Santa Ana,Silla Ergonómica Ejecutiva,Mobiliario,44,120.0,5280.0
+INV-1082,Santa Ana,"Monitor LED 24""",Tecnología,43,145.5,6256.5
+INV-1083,Sonsonate,"Monitor LED 24""",Tecnología,8,145.5,1164.0
+INV-1084,Sonsonate,"Laptop Corporativa 15""",Tecnología,10,650.0,6500.0
+INV-1085,Santa Ana,Teclado Mecánico USB,Tecnología,41,45.0,1845.0
+INV-1086,La Libertad,Caja Bolígrafos Negros,Papelería,18,3.5,63.0
+INV-1087,La Libertad,"Laptop Corporativa 15""",Tecnología,15,650.0,9750.0
+INV-1088,La Libertad,"Laptop Corporativa 15""",Tecnología,29,650.0,18850.0
+INV-1089,San Miguel,Caja Bolígrafos Negros,Papelería,33,3.5,115.5
+INV-1090,La Libertad,Router Inalámbrico Doble Banda,Redes,36,55.0,1980.0
+INV-1091,Santa Ana,Impresora Multifuncional,Oficina,33,180.0,5940.0
+INV-1092,Santa Ana,"Laptop Corporativa 15""",Tecnología,52,650.0,33800.0
+INV-1093,Sonsonate,"Laptop Corporativa 15""",Tecnología,25,650.0,16250.0
+INV-1094,San Salvador,"Laptop Corporativa 15""",Tecnología,86,650.0,55900.0
+INV-1095,Sonsonate,Router Inalámbrico Doble Banda,Redes,15,55.0,825.0
+INV-1096,San Salvador,Router Inalámbrico Doble Banda,Redes,35,55.0,1925.0
+INV-1097,Santa Ana,"Monitor LED 24""",Tecnología,53,145.5,7711.5
+INV-1098,San Salvador,Impresora Multifuncional,Oficina,76,180.0,13680.0
+INV-1099,San Salvador,Switch Gigabit 8 Puertos,Redes,56,38.0,2128.0
+INV-1100,Sonsonate,Switch Gigabit 8 Puertos,Redes,7,38.0,266.0
