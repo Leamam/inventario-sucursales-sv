@@ -2,17 +2,17 @@
 
 Proyecto de análisis de datos e interfaz gráfica desarrollado en Python para gestionar e inspeccionar el inventario de cinco sucursales nacionales
 
-## 👥 Integrantes del Equipo
+ Integrantes del Equipo
 * **Erick Abel León Amaya**
 * **Sofia Alessandra Amaya Molina**
 
-## 🛠️ Tecnologías y Librerías Utilizadas
+ Tecnologías y Librerías Utilizadas
 * **Python 3**
 * **Pandas:** fue la generacion Geración del dataset CSV e inspección estadística descriptiva 
 * **PyQt5:** fue la interfas graficas para hacer las tablas
 * **Matplotlib:** Generación de gráficos estadísticos integrados en PyQt5 mediante `FigureCanvasQTAgg`.
 
-## 📂 Contenido del Repositorio
+# Contenido del Repositorio
 * `main.py`: Código fuente principal 
 * `datos.csv`: Conjunto de datos del inventario con 100 registros y 7 columnas.
 * `requirements.txt`: Dependencias necesarias para ejecutar el proyecto.
@@ -20,7 +20,7 @@ Proyecto de análisis de datos e interfaz gráfica desarrollado en Python para g
 * `Informe_Consultoria.pdf`: Informe ejecutivo con hallazgos, conclusiones por variable y recomendaciones estratégicas.
 * `README.md`: Documentación general del repositorio.
 
-## 🚀 Instrucciones de Ejecución
+# Instrucciones de Ejecución
 
 1. Clonar este repositorio:
    ```bash
